@@ -6,6 +6,9 @@ from __future__ import print_function
 
 #=======
 #>>>>>>> master
+<<<<<<< HEAD
+#Alex is number 444444
+=======
 #  is number 0
 #  is number 1
 #  is number 2
@@ -14,17 +17,21 @@ from __future__ import print_function
 #  is number 5
 #  is number 6
 #Alex is number 7
-#  is number 8
-#  is number 9
+#Raja is number 8
+#Camren is number 9
 #  is number 10
-#  is number 11
+#Bradley is number 11
 #  is number 12
+<<<<<<< HEAD
+>>>>>>> refs/remotes/CSPHomesteadHighSchool/master
+=======
+>>>>>>> origin/master
 >>>>>>> refs/remotes/CSPHomesteadHighSchool/master
 ##### 
 # Computer Science and Software Engineering
 # PLTW AP CS Principles
 # (c)2014 Project Lead The Way, Inc.
-#
+# bow before me 
 # Activity 1.3.9 Tools for Collaboration
 # Project 1.3.10 Collaborating on a Project
 # 
