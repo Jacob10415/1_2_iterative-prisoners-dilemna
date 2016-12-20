@@ -3,7 +3,12 @@ from __future__ import print_function
 #Jacob is in last place
 =======
 #<<<<<<< testing
+<<<<<<< HEAD
 
+=======
+#Def team 2 = 'The Struggle' 
+#My nama jeff xD
+>>>>>>> refs/remotes/CSPHomesteadHighSchool/master
 #=======
 #>>>>>>> master
 <<<<<<< HEAD
