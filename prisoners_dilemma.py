@@ -3,7 +3,7 @@ from __future__ import print_function
 #Jacob is in last place
 =======
 #<<<<<<< testing
-
+#My nama jeff xD
 #=======
 #>>>>>>> master
 <<<<<<< HEAD
@@ -19,12 +19,18 @@ from __future__ import print_function
 #Alex is number 7
 #Raja is number 8
 #Camren is number 9
+<<<<<<< HEAD
 # Jacob is number 10
 #Bradley is number 11
 #  is number 12
 <<<<<<< HEAD
 >>>>>>> refs/remotes/CSPHomesteadHighSchool/master
 =======
+=======
+#   is number 10
+#  is number 11
+# Luke is number 12
+>>>>>>> refs/remotes/CSPHomesteadHighSchool/master
 >>>>>>> origin/master
 >>>>>>> refs/remotes/CSPHomesteadHighSchool/master
 ##### 
