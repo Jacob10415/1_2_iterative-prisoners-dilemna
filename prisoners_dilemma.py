@@ -19,7 +19,7 @@ from __future__ import print_function
 #Alex is number 7
 #Raja is number 8
 #Camren is number 9
-#  is number 10
+# Jacob is number 10
 #Bradley is number 11
 #  is number 12
 <<<<<<< HEAD
